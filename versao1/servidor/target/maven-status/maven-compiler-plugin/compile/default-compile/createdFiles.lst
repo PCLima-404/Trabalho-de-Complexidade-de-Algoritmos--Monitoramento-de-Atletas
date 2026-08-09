@@ -1,0 +1,6 @@
+br\edu\ifba\atletas\servidor\impl\OperacoesImpl.class
+br\edu\ifba\atletas\servidor\impl\Atleta.class
+br\edu\ifba\atletas\servidor\impl\Leitura.class
+br\edu\ifba\atletas\servidor\operacoes\Operacoes.class
+br\edu\ifba\atletas\servidor\Rotas.class
+br\edu\ifba\atletas\servidor\Servidor.class

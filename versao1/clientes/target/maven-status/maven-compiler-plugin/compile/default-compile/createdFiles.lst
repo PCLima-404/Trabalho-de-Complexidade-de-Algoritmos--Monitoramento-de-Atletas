@@ -1,0 +1,8 @@
+br\edu\ifba\atletas\clientes\impl\ClienteImpl.class
+br\edu\ifba\atletas\clientes\impl\Leitura.class
+br\edu\ifba\atletas\clientes\impl\SensoriamentoImpl.class
+br\edu\ifba\atletas\clientes\comunicacao\Resultado.class
+br\edu\ifba\atletas\clientes\App.class
+br\edu\ifba\atletas\clientes\impl\Atleta.class
+br\edu\ifba\atletas\clientes\comunicacao\Cliente.class
+br\edu\ifba\atletas\clientes\sensoriamento\Sensoriamento.class
